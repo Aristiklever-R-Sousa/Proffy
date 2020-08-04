@@ -1,4 +1,4 @@
-<h1 align="center">Proffy</h1>
+<h1 align="center"><font size="4">Proffy</font></h1>
 
 ## Sobre 📝
 <p>O Proffy tem o intuito de conectar alunos aos seus professores!</p>
