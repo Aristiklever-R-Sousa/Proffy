@@ -1,6 +1,4 @@
-<h1 align="center">
-	<img src="./assets-README/logo.svg" width="220px" alt="Proffy" />
-</h1>
+<h1 align="center">Proffy</h1>
 
 ## Sobre 📝
 <p>O Proffy tem o intuito de conectar alunos aos seus professores!</p>
