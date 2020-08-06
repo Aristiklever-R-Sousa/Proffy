@@ -7,7 +7,7 @@ export async function up(knex: Knex) {
 			table.string('subject').notNullable();
 			table.decimal('cost').notNullable();
 			
-			table.integer('use_id').notNullable()
+			table.integer('user_id').notNullable()
 				.references('id').inTable('users')
 				.onUpdate('CASCADE').onDelete('CASCADE');
 		}
