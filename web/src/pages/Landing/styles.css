@@ -1,6 +1,6 @@
 #page-landing {
     width: 100vw;
-    height: 100vw;
+    height: 100vh;
 
     display: flex;
     justify-content: center;
@@ -14,7 +14,7 @@
     height: 10rem;
 }
 
-.hero-container {
+.hero-image {
     width: 100%;
 }
 
@@ -83,7 +83,7 @@
 }
 
 .total-connections {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 
     display: flex;
     align-items: center;
@@ -94,9 +94,9 @@
     margin-left: 0.8rem;
 }
 
-@media (min-width: 1110px) {
+@media (min-width: 1100px) {
     #page-landing-content {
-        max-width: 1110px;
+        max-width: 1100px;
 
         display: grid;
         grid-template-rows: 350px 1fr;
