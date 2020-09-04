@@ -1,5 +1,7 @@
 <h1 align="center">Proffy</h1>
 
+<img src="assets-README/post.png" alt="Edição desenvolvida por mim (Aristiklever) para ilustrar um pouco o sistema web e mobile.">
+
 ## Sobre 📝
 <p>O Proffy tem o intuito de conectar alunos aos seus professores!</p>
 <p>
